@@ -2,11 +2,11 @@
 
 :root {
   /* Light mode colors */
-  --primary-color: #eeeadc;
+  --primary-color: #f3efe8;
   --secondary-color: #ffe2d9;
   --text-color: #000000;
   --accent-color: #6e5a4987;
-  --nav-background: #eeeadc;
+  --nav-background: #f3efe8;
   --link-hover-color: #000000;
 
   /* Dark mode colors */
